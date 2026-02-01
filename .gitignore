@@ -54,3 +54,14 @@ Thumbs.db
 # Kotlin
 *.kotlin_module
 .kotlin/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+secrets.properties
+
+# Firebase sensitive files
+google-services.json
+firebase-debug.log

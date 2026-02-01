@@ -1,5 +1,15 @@
 # FlatPoolManager - User Credentials
 
+> [!WARNING]
+> **DEMO CREDENTIALS ONLY - NOT FOR PRODUCTION USE**
+> 
+> These are test credentials for demonstration purposes only. These users must be manually created in YOUR Firebase project for the app to work. These credentials do NOT provide access to any real system or data.
+> 
+> **For your own deployment:**
+> 1. Create these users in YOUR Firebase Authentication console
+> 2. Use these credentials for testing only
+> 3. Never use these passwords for real accounts
+
 ## Predefined Users
 
 For testing and demo purposes, the app has 6 predefined users:

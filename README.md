@@ -40,6 +40,11 @@ A modern Android app for managing shared expenses among flatmates with real-time
 
 ## 👥 Predefined Users
 
+> [!WARNING]
+> **These are DEMO credentials for testing purposes only!**
+> You must create these users in YOUR Firebase Authentication console for the app to work.
+> See [FIREBASE_SETUP.md](FIREBASE_SETUP.md) for instructions.
+
 | Name | Email | Password | Role |
 |------|-------|----------|------|
 | Divyansh | divyansh@flatpool.com | divyansh123 | Admin |
